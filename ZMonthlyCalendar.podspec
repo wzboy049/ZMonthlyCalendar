@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'ZMonthlyCalendar'
-s.version          = '0.0.1'
+s.version          = '0.0.2'
 s.summary          = 'not Calendar just show messge by month , scroll by year.'
 
 s.description      = <<-DESC
