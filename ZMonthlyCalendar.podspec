@@ -14,6 +14,6 @@ s.source           = { :git => 'https://github.com/wzboy049/ZMonthlyCalendar.git
 
 s.ios.deployment_target = '8.0'
 s.source_files = 'ZMonthlyCalendar/*.swift'
-s.resource     = 'ZMonthlyCalendar/Resource/*'
+s.resource     = 'ZMonthlyCalendar/Resource/FinancialStatements/*'
 
 end
